@@ -4,7 +4,7 @@
 
 ##  PART 1
 
-new sessions  *bolded*    and ~italic~
+new sessions  **bolded**    and *italic*
 
 
 
