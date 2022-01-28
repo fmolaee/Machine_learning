@@ -4,7 +4,9 @@
 
 ##  PART 1
 
-new sessions
+new sessions  *bolded*    and ~italic~
+
+
 
 ### PART 1-1
 
